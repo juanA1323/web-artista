@@ -1,0 +1,17 @@
+h1{
+    text-align: center;
+    text-shadow: 2px 2px;
+}
+body{
+    background-color: lightblue;
+    margin: 70px;
+    
+}
+img{
+    float: right;
+    margin: 50px;
+    width: 350px;
+    height: 450px;
+    border-radius: 25px;
+
+}
